@@ -22,3 +22,5 @@ class TestSum(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
+  # Since this is a failed test result  There were some results that I have noticed. Via the unittest command we can see addiotional information near the bottom of the output. The fail entry via unittest shows us the test method name, the test module,test case and the assertion error.
